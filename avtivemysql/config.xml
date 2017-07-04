@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mysql-adapter>
+    <myclass name="myTest.User" table="user">
+        <id name="uid" type="int">
+        </id>
+        <property name="uname" type="char(20)">
+        </property>
+    </myclass>
+</mysql-adapter>
